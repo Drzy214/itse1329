@@ -1,5 +1,7 @@
 package week03
-
+//*****
+//Andrew Ruano, 3.7 Restaurant Selector, 9-22-2022
+//****
 fun main(){
     println("Is anyone in your party vegetarian?")
     var vegetarian = readLine()!!
