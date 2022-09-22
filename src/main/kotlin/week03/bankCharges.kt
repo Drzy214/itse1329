@@ -1,4 +1,6 @@
 package week03
+//**********
+//Andrew Ruano, bankCharges.kt 3.8, 9-22-2022
 fun main(){
     println("How many checks were written this month?")
     var checks = Integer.valueOf(readLine())!!
