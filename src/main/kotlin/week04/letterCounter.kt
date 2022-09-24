@@ -1,4 +1,5 @@
 package week04
+//Andrew Ruano, 4.2 Letter Counter, 9-24-2022
 
 fun main(args: Array<String>) {
     println("Enter a string:")
