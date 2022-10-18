@@ -7,7 +7,7 @@ fun main(){
 }
 fun isNumberDivisible(number: Int, divisor: Int): Boolean {
     var results: Boolean = false
-    if (number % 2 == 0) {
+    if (number % divisor == 0) {
         results = true
     }
     return results
